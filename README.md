@@ -61,7 +61,8 @@ public class DataModel {
 
 .
 
-#Fist work.(Create Data Adapte)
+#Second work.(Create Data Adapte)
+
 package com.sundar.jsongetdata;
 
 import android.content.Context;
